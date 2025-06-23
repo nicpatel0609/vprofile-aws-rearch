@@ -1,4 +1,4 @@
-readme_content = """# vProfile – Re-Architected on AWS Cloud ☁️
+# vProfile – Re-Architected on AWS Cloud ☁️
 
 **vProfile** is a demo multi-tier Java web application that was originally deployed on virtual machines using a traditional NGINX + Tomcat stack. This project showcases a complete re-architecture of that system onto AWS cloud infrastructure with production-grade scalability, availability, and observability.
 
