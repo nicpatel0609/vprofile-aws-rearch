@@ -1,4 +1,4 @@
-"""# Architecture Comparison: vProfile
+# Architecture Comparison: vProfile
 
 This document outlines the key differences between the legacy VM-based architecture and the new AWS-based re-architected version of the `vProfile` application.
 
